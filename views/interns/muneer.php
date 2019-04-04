@@ -11,23 +11,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1547954566/fav-500.png" alt="Mark Essien">
-                        <h6>Mark Essien</h6>
-                        <p>Front-end Engineer</p>
+                        <img src="https://res.cloudinary.com/muneer/image/upload/v1554308686/e8943b36-4cdf-49e0-b3d2-eb65d67a2e2a.png" alt="Muneer Abdullahi">
+                        <h6>Muneer Abdullahi</h6>
+                        <p>Front-end Developer</p>
                         <ul class="list">
-                           <li><a href="#" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="#" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="#" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/Muneer_145" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/lusion145" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@muneermabdullahi" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae dicta, ipsam aliquam fugit voluptatum ad. Nihil sit ipsum consectetur nulla? Nesciunt illum mollitia repellat corrupti deleniti recusandae, repellendus eaque exercitationem?lore</p>
+                        <p>I’m a self taught front-end developer who is passionate about technology and how it can be used to improve our society. Although i'm fairly new to web development, I am proficient in vanilla css, Bootstrap and Javascript.</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | PHP | Python</p>
+                        <p>JavaScript | Css | Bootstrap</p>
                      </div>
                   </div>
                </div>

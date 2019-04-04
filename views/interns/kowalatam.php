@@ -11,23 +11,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1547954566/fav-500.png" alt="Mark Essien">
-                        <h6>Mark Essien</h6>
+                        <img src="https://res.cloudinary.com/kowalatam/image/upload/v1554308501/new_photo_1_1.jpg" alt="Mark Essien">
+                        <h6>Elizabeth Paul</h6>
                         <p>Front-end Engineer</p>
                         <ul class="list">
-                           <li><a href="#" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="#" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="#" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/kowalatam" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/Kowalatam/" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@kowalatamlizzy" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae dicta, ipsam aliquam fugit voluptatum ad. Nihil sit ipsum consectetur nulla? Nesciunt illum mollitia repellat corrupti deleniti recusandae, repellendus eaque exercitationem?lore</p>
+                        <p>I am a know it all learning to stop being a know it all. I enjoy teaching/guiding people. I Have a background in mechanical engineering but I am forward to doing what I now enjoy</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | PHP | Python</p>
+                        <p>HTML | CSS | JavaScript</p>
                      </div>
                   </div>
                </div>

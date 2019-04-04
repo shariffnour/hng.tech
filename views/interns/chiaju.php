@@ -11,23 +11,25 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1547954566/fav-500.png" alt="Mark Essien">
-                        <h6>Mark Essien</h6>
-                        <p>Front-end Engineer</p>
+                        <img src="https://res.cloudinary.com/chiaju/image/upload/v1554310968/pix_1.jpg" alt="Chiaju Chinedu">
+                        <h6>Chiaju Chinedu Ndudi</h6>
+                        <p>Back-end Engineer</p>
                         <ul class="list">
-                           <li><a href="#" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="#" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="#" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/ChineduChiaju" target="_blank"><i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/devneidu" target="_blank"><i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@devneidu" target="_blank"><i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae dicta, ipsam aliquam fugit voluptatum ad. Nihil sit ipsum consectetur nulla? Nesciunt illum mollitia repellat corrupti deleniti recusandae, repellendus eaque exercitationem?lore</p>
+                        <p>
+							Hello there! It's nice to meet you virtually #smile. I love Laravel and Javascript. I started my programming career 2018 and it's been fun and cool. 
+						</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | PHP | Python</p>
+                        <p>JavaScript | PHP | HTML</p>
                      </div>
                   </div>
                </div>
